@@ -17,7 +17,7 @@
 
 ### Sample Screen:
 <p align="center">
-  <img width="600" height="500" src="https://github.com/Subathra19/book-store/blob/main/sample_screen.PNG">
+  <img width="500" height="400" src="https://github.com/Subathra19/book-store/blob/main/sample_screen.PNG">
 </p>
 
 ### References:
