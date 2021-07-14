@@ -1,11 +1,12 @@
 # Book Store
-* An interactive python-based web application map of countries and population using folium. The following details are popped up on clicking the marker:
-  * Contry name
-  * Capital name
-  * Continent name
-  * HTML Link 
-* **Folium** is a powerful data visualization library in Python that was built primarily to help people visualize geospatial data.With Folium, one can create a map of any location in the world if its latitude and longitude values are known. It converts python code to HTML/JAVAScript/CSS code automatically
-* **Pandas** is mainly used for data analysis. It allows importing data from various file formats such as comma-separated values, JSON, SQL, Microsoft Excel
+* A python-based book store application built with tkinter library. It have the following features:
+  * Add entry
+  * Search entry
+  * Delete entry
+  * Clear
+  * List box 
+
+* **Tkinter**  framework provides a simple way to create GUI elements using the widgets found in the Tk toolkit. Tk widgetsare used to construct buttons, labels, menus, data fields, etc.
 
 ### Prerequisites
 * Python 3.0
