@@ -17,7 +17,7 @@
 
 ### Sample Screen:
 <p align="center">
-  <img width="900" height="500" src="https://github.com/Subathra19/py_webmap/blob/main/images/sample_screen.PNG">
+  <img width="900" height="500" src="https://github.com/Subathra19/book-store/blob/main/sample_screen.PNG">
 </p>
 
 ### References:
